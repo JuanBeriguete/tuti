@@ -1,4 +1,4 @@
-from pyPS4Controller.cli import Cli
+from pyPS4Controllernjs.cli import Cli
 
 
 def main():
