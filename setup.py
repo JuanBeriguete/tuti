@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pyPS4Controller",
+    name="pyPS4Controller1",
     version="1.2.5",
     author="Artur Spirin",
     author_email="as.no.replies@gmail.com",
